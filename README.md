@@ -8,7 +8,7 @@ Scan an array of URLs and report inaccessible URLs
 Via Composer
 
 ``` bash
-$ composer require susucool/scanner
+$ composer require susucool/scanner dev-main
 ```
 
 ## Usage
